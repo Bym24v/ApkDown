@@ -1,5 +1,5 @@
 # ApkDown
-Simple tool to download Aptide apk
+Simple tool to download Aptoide apk
 
 # screenshot
 ![alt tag](https://github.com/Bym24v/ApkDown/blob/master/caps/home.png)
